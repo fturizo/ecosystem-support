@@ -28,7 +28,6 @@ Maven and Gradle integration plugins and tools.
 
 * https://github.com/payara/ecosystem-maven[Maven Tools]
 * https://github.com/payara/ecosystem-gradle[Gradle Tools]
-* https://github.com/payara/ecosystem-maven-regex-profile-activation-extension[Maven Regex Profile Activation Extension]
 
 [[connector-suites]]
 === Connector Suites
